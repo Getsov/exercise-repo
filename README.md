@@ -1,2 +1,3 @@
 # exercise-repo
+This project will contain...
 Redo made for exercise.
